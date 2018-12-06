@@ -1,0 +1,16 @@
+Maxine Kho
+Intro to Web Development
+Professor Heather Moore
+December 6, 2018
+
+Write a paragraph about the comparison/development of the two frameworks and what you think of RARRA as a choice?
+
+I think that the author of the article left a strong first impression on me when he, in his opening statement, framed the AARRR (Acquisition) framework vs. RARRA (Refocus/Retention) framework dilemma in the context of the changing app landscape: what the app store looked like then (a deserted island) and low initial CPI rate vs. millions of apps swarming the market, higher user expectations, and high CPI costs today.
+
+At first glance, the AARRR model seems appealing to e-businesses and services who are keen on onboarding (acquiring) more and more users each day, with the hopes of monetizing the user base. The number of new users is a valuable KPI especially to as-a-service startups and social media networks where capital and/or content almost solely relies on the users themselves. The problem comes in when these how-ever-many acquired users are left to lurk within apps with no solid framework to keep them 'hooked'.
+
+As people become more tech-fluent (i.e. increasing reliance on apps to perform basic human functions such as waking up, eating healthy, staying hydrated, communicating with friends and family, etc), they keep building their 'muscle' for valuing an app. App developers, designers, and business people must shift their focus towards user retention and approach acquisition as the 'reward', or rather, a byproduct of users' loyalty to the product.
+
+
+
+
